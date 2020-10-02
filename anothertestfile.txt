@@ -1,0 +1,3 @@
+Simple application for android for education purpose 
+-Form
+-Spinner (Drop Down Option)
